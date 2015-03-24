@@ -1,0 +1,9 @@
+c:\users\maxwell\documents\visual studio 2013\Projects\ApocLauncher\ApocLauncher\bin\Debug\ApocLauncher.exe.config
+c:\users\maxwell\documents\visual studio 2013\Projects\ApocLauncher\ApocLauncher\obj\Debug\ApocLauncher.csprojResolveAssemblyReference.cache
+c:\users\maxwell\documents\visual studio 2013\Projects\ApocLauncher\ApocLauncher\obj\Debug\ApocLauncher.Properties.Resources.resources
+c:\users\maxwell\documents\visual studio 2013\Projects\ApocLauncher\ApocLauncher\obj\Debug\ApocLauncher.csproj.GenerateResource.Cache
+c:\users\maxwell\documents\visual studio 2013\Projects\ApocLauncher\ApocLauncher\bin\Debug\ApocLauncher.exe
+c:\users\maxwell\documents\visual studio 2013\Projects\ApocLauncher\ApocLauncher\bin\Debug\ApocLauncher.pdb
+c:\users\maxwell\documents\visual studio 2013\Projects\ApocLauncher\ApocLauncher\obj\Debug\ApocLauncher.exe
+c:\users\maxwell\documents\visual studio 2013\Projects\ApocLauncher\ApocLauncher\obj\Debug\ApocLauncher.pdb
+c:\users\maxwell\documents\visual studio 2013\Projects\ApocLauncher\ApocLauncher\obj\Debug\ApocLauncher.Launcher.resources
